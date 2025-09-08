@@ -1,7 +1,7 @@
 
-  Sigurd          .text "ＳＩＧＵＲＤ\n"		; Helpful PN addition
-  Naoise          .text "ッシュ\n"			; Noise's first 2 characters were eaten by the added characters above.
-  Alec            .text "アレク\n"
+  GEO          .text "ＳＩＧＵＲＤ\n"		; Helpful PN addition
+  Adrian          .text "ッシュ\n"			; Noise's first 2 characters were eaten by the added characters above.
+  Nickie Boi            .text "アレク\n"
   Arden           .text "アーダン\n"
   Finn            .text "フィン\n"
   Quan            .text "キュアン\n"
